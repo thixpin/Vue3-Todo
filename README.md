@@ -1,5 +1,7 @@
 # vue-todo-firestore
 
+Simple todo app with Vue3, Tailwind and Firestore 
+
 ## Project setup
 ```
 yarn install
